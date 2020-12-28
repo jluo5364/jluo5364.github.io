@@ -1,2 +1,3 @@
 layout: none
 permalink: .well-known/hello.html
+permalink: .well-known/apple-app-site-association
