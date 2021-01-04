@@ -1,15 +1,15 @@
 {
     "appclips": {			
 	  "apps": [			
-		  "99S6L5AHQ6.jluo5364.ARStore.Clip"			
+		  "99S6L5AHQ6.jluo5364.AppClipDebug.Clip"			
        ]			
     },
     "applinks": {
         "apps": [],
         "details": [
             {
-                "appID": "99S6L5AHQ6.jluo5364.ARStore",
-                "paths": [ "NOT /order/*", "/AR/*" ]
+                "appID": "99S6L5AHQ6."jluo5364.AppClipDebug",
+                "paths": [ "NOT /order/*", "/AppClipDebug" ]
             },
             {
                 "appID": "99S6L5AHQ6.jluo5364.UniversalLinkSample",
