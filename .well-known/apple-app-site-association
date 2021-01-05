@@ -1,14 +1,14 @@
 {
     "appclips": {			
 	  "apps": [			
-		  "99S6L5AHQ6.jluo5364.AppClipDebug.Clip"			
+		  "99S6L5AHQ6.jluo5364.URLTracer.Clip"			
        ]			
     },
     "applinks": {
         "apps": [],
         "details": [
             {
-                "appID": "99S6L5AHQ6."jluo5364.AppClipDebug",
+                "appID": "99S6L5AHQ6."jluo5364.URLTracer",
                 "paths": [ "NOT /order/*", "/AppClipDebug" ]
             },
             {
