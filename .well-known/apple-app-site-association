@@ -1,10 +1,13 @@
 {
 	"applinks": {
-	  "apps": [],
 	  "details" : [
 	      {
-		"appID" : "99S6L5AHQ6.jluo5364.UniversalLinkSample",
-		"paths" : [ "/order" ]
+		"appIDs" : ["99S6L5AHQ6.jluo5364.UniversalLinkSample"],
+		"components" : [ 
+			{ "/" : "/order/*",
+			  "comment": "Matches and URL whose path starts with /order/" 
+			}
+		 ]
 	      }
 	   ]
 	}
