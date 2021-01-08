@@ -1,14 +1,25 @@
 {
-	"applinks": {
-	  "details" : [
-	      {
-		"appIDs" : ["99S6L5AHQ6.jluo5364.UniversalLinkSample"],
-		"components" : [ 
-			{ "/" : "/order/*",
-			  "comment": "Matches and URL whose path starts with /order/" 
-			}
-		 ]
-	      }
-	   ]
-	}
+    "applinks": {
+      "details" : [
+          {
+            "appIDs" : ["99S6L5AHQ6.jluo5364.URLTracer"],
+            "components" : [
+                { "/" : "/URLTracer/*",
+                  "comment": "Matches and URL whose path starts with /URLTracer/"
+                }
+            ]
+          },
+          {
+            "appIDs" : ["99S6L5AHQ6.jluo5364.UniversalLinkSample"],
+            "components" : [
+                { "/" : "/order/*",
+                  "comment": "Matches and URL whose path starts with /order/"
+                }
+             ]
+          }
+       ]
+    },
+    "appclips": {
+        "apps": ["99S6L5AHQ6.jluo5364.URLTracer.Clip"]
+    }
 }
