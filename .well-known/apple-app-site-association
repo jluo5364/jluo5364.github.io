@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "99S6L5AHQ6.jluo5364.UniversalLinkSample",
-                "paths": [ "/order/*" ]
-            }
-        ]
-    }
+	"applinks": {
+	  "apps": [],
+	  "details" : [
+	      {
+		"appID" : "99S6L5AHQ6."jluo5364.URLTracer",
+		"paths" : [/order/]
+	      }
+	   ]
+	}
 }
